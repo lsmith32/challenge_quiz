@@ -8,7 +8,7 @@
     width: 500px;
     height: 500px;
     border: 1px solid;
-    color: var(--red);
+    color: none;
 }
 header, body {
     background-color: #faebda;
