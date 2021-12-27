@@ -14,3 +14,4 @@ Designing and coding a website that quizes the user with a timer, randomized que
 
 ## Contribution
 Made with ❤️ by Lauren
+![2021-12-26](https://user-images.githubusercontent.com/93622828/147434640-25aaaca4-b538-4920-9924-fd1f5c15f921.png)
